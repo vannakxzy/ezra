@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254696780043",
+    "project_id": "komplech-events",
+    "storage_bucket": "komplech-events.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254696780043:android:bfcfffc70960494955720e",
+        "android_client_info": {
+          "package_name": "com.komplech.event"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCYBg-_PxNDsEVhFkrwc9utgQDTnRYouY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
